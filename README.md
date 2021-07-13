@@ -12,8 +12,8 @@ Image Format:.JPEG, .PNG<br />
 Dataset: 8k Images min. (10k+ preferred)<br />
 
 ### Scraping tool deploy on Heroku and save image to cloudinary
-https://dashboard.heroku.com/apps/image-scraper-21/resources
-https://cloudinary.com/console/c-ceb206ce44bdef030ce1e48d4aa582/media_library/folders/home
+https://dashboard.heroku.com/apps/image-scraper-21/resources<br />
+https://cloudinary.com/console/c-ceb206ce44bdef030ce1e48d4aa582/media_library/folders/home<br />
  
 Hosting on Heroku<br />
 Mail: psaha...@hotmail.com<br />
